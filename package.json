@@ -1,0 +1,22 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "study cards",
+  "main": "BasicCards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meglambda/flashcards.git"
+  },
+  "author": "M Landahl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meglambda/flashcards/issues"
+  },
+  "homepage": "https://github.com/meglambda/flashcards#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
